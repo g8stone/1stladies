@@ -9,38 +9,6 @@ header {
   width: 300px;
 }
 
-/*
-nav ul {
-  display: flex;
-  justify-content: space-between;
-  list-style: none;
-  padding: 0px;
-  margin: auto;
-  margin-bottom: 24px;
-  max-width: 100%;
-}
-/*nav ul li {
-  flex: 1;
-  max-width: 100px;
-  margin: 10px;
-  text-align: center;
-  cursor: pointer;
-  font-size: 15px;
-  font-family: 'Source Sans Pro';
-  height: 44px;
-  line-height: 44px;
-  color: #849097;
-  transition: box-shadow 0.33s ease-out, color 0.33s ease-out;
-  -webkit-transition: box-shadow 0.33s ease-out, color 0.33s ease-out; /* Safari 
-}
-nav ul li:not(.active) {
-  background-color: white !important;
-}
-nav ul li.active {
-  box-shadow: 0 0 7px rgba(132, 144, 151, 0.3);
-  color : white;
-  border-radius: 2px;
-}*/
 h3 {
   font-size: 25px;
   margin: 0;
