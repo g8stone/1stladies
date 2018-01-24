@@ -1,0 +1,119 @@
+title: First ladies of the United States
+subhead: 
+
+[tabs]
+  image: kennedy.png
+  props.title: Jacqueline Kennedy 
+  status: President John F. Kennedy
+  date.label: 1961-1963
+  date.start: 1961
+  date.end: 1963 
+  props.description: Jan 1961 - Nov 1963
+ 
+
+  image: johnson.png
+  props.name: Johnson
+  props.title: Lady Bird Johnson
+  status: President Lyndon B. Johnson
+  date.label: 1963-1969
+  date.start: 1963
+  date.end: 1969 
+  props.description: Nov 1963 - Jan 1969
+
+  
+  image: nixon.png
+  props.name: Nixon
+  props.title: Pat Nixon
+  status: President Richard M. Nixon
+  date.label: 1969-1974
+  date.start: 1969
+  date.end: 1974 
+  props.description: Jan 1969 - Aug 1974
+
+
+  image: ford.png
+  props.name: Ford
+  props.title: Betty Ford
+  status: President Gerald R. Ford
+  date.label: 1974-1977
+  date.start: 1974
+  date.end: 1977 
+  props.description: Aug 1974 - Jan 1977
+
+
+  image: carter.png
+  props.name: Carter
+  props.title: Rosalynn Carter
+  status: President Jimmy Carter
+  date.label: 1977-1981
+  date.start: 1977
+  date.end: 1981 
+  props.description: Jan 1977 - Jan 1981
+  
+  
+  image: reagan.png
+  props.name: Reagan
+  props.title: Nancy Reagan
+  status: President Ronald Reagan
+  date.label: 1981-1989
+  date.start: 1981
+  date.end: 1989 
+  props.description: Jan 1981 - Jan 1989
+  
+
+  image: bbush.png
+  props.name: Bush
+  props.title: Barbara Bush
+  status: President George Bush
+  date.label: 1989-1993
+  date.start: 1989
+  date.end: 1993 
+  props.description: Jan 1989 - Jan 1993
+  
+
+  image: clinton.png
+  props.name: Clinton
+  props.title: Hillary Clinton
+  status: President Bill Clinton
+  date.label: 1993-2001
+  date.start: 1993
+  date.end: 2001 
+  props.description: Jan 1993 - Jan 2001
+
+
+  image: lbush.png
+  props.name: Bush
+  props.title: Laura Bush
+  status: President George W. Bush
+  date.label: 2001-2009
+  date.start: 2001
+  date.end: 2009 
+  props.description: Jan 2001 - Jan 2009
+
+  
+  image: obama.png
+  props.name: Obama
+  props.title: Michelle Obama
+  status: President Barack Obama
+  date.label: 2009-2017
+  date.start: 2009
+  date.end: 2017 
+  props.description: Jan 2009 - Jan 2017
+  
+  
+  image: trump.png
+  props.name: Trump
+  props.title: Melania Trump
+  status: President Donald Trump
+  date.label: 2017-2018
+  date.start: 2017
+  date.end: 2018 
+  props.description: Jan 2017 - present
+  
+  
+  
+[]
+sources: Sources: National First Ladies Library/Library of Congress/AFP Photo
+lastUpdate.key: Last update:
+lastUpdate.value: 01/23/2018 14:30:00
+lang: en

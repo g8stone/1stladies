@@ -1,0 +1,100 @@
+title: Les principaux leaders chinois depuis 1949
+subhead:
+
+[tabs]
+  image: mao-zedong.png
+  props.name: Mao
+  props.title: Mao Zedong
+  props.chinese: 毛泽东
+  date.label: 1949 - 1976
+  date.start: 1949
+  date.end: 1976
+  status: Président du PCC
+  props.description: Après 20 ans de guerre civile, Mao Zedong fonde en 1949 la République populaire de Chine. Il est à l'origine du Grand Bond en avant dans les années 1950 et de la Révolution culturelle dans les années 1960. Il meurt en septembre 1976, mais l'influence de son idéologie, le maoïsme, perdure.
+
+  image: zhou-enlai.png
+  props.name: Zhou
+  props.title: Zhou Enlai
+  props.chinese: 周恩来
+  date.label: 1949 - 1976
+  date.start: 1949
+  date.end: 1976
+  status: Premier ministre
+  props.description: Membre fondateur dans l'ombre de Mao, Zhou Enlai est un personnagé clé, notamment dans les relations extérieures de la Chine. Il a joué un rôle fondamental dans le rapprochement avec les États-Unis, en organisant par exemple la rencontre entre Richard Nixon et Mao, en 1972 à Pékin.
+
+  image: hua-guofeng.png
+  props.name: Hua
+  props.title: Hua Guofeng
+  props.chinese: 华国锋
+  date.label: 1976 - 1981
+  date.start: 1976
+  date.end: 1981
+  status: Président du PCC
+  props.description: Choisi par Mao pour lui succéder, Hua Guofeng s'est placé dans la continuité de ce dernier, déclarant vouloir prolonger tout ce que Mao avait initié. Hua Guofeng est progressivement écarté du pouvoir par Deng Xiaoping.
+
+  image: hu-yaobang.png
+  props.name: Hu
+  props.title: Hu Yaobang
+  props.chinese: 胡耀邦
+  date.label: 1981 - 1987
+  date.start: 1981
+  date.end: 1987
+  status: Président du PCC, puis Secrétaire général
+  props.description: Soutenu par Deng Xiaoping, Hu Yaobang a eu pour mission de sortir le pays de l'idéologie maoïste, discréditée. Il est poussé à la démission en 1987, à la suite de manifestations étudiantes. Après sa mort en 1989, des rassemblements place Tiananmen ont réclamé sa réhabilitation politique.
+
+  image: zhao-ziyang.png
+  props.name: Zhao
+  props.title: Zhao Ziyang
+  props.chinese: 赵紫阳
+  date.label: 1987 - 1989
+  date.start: 1987
+  date.end: 1989
+  status: Secrétaire général
+  props.description: Zhao Ziyang est considéré comme l'auteur de réformes pragmatiques, optant pour l'allègement du contrôle de l'Etat. Il a défendu une réponse modérée face aux manifestants en 1989 et a été écarté du pouvoir après s'être opposé à la répression du mouvement du 4 juin à Tiananmen. Il a été assigné à résidence jusqu'à sa mort.
+
+  image: deng-xiaoping.png
+  props.name: Deng
+  props.title: Deng Xiaoping
+  props.chinese: 邓小平
+  date.label: 1978 - 1989
+  date.start: 1978
+  date.end: 1989
+  status: Dirigeant réformiste
+  props.description: Deng Xiaoping est l'architecte des réformes économiques d'envergure réalisées dans les années 1980. Célèbre pour avoir dit "peu importe que le chat soit noir ou blanc, tant qu'il attrape des souris", c'est lui qui était au pouvoir en 1989 lorsque des soldats ont ouvert le feu contre des manifestants sur la place Tiananmen.
+  position: second
+
+  image: jiang-zemin.png
+  props.name: Jiang
+  props.title: Jiang Zemin
+  props.chinese: 江泽民
+  date.label: 1989 - 2002
+  date.start: 1989
+  date.end: 2002
+  status: Secrétaire général
+  props.description: Jiang Zemin est celui qui a fait entrer la Chine dans l'Organisation mondiale du Commerce, a supervisé la rétrocession de Hong Kong et a fait remporter la candidature de Pékin aux Jeux olympiques de 2008. Il a poursuivi l'ouverture économique entamée par Deng Xiaoping, mais a été critiqué pour sa répression de l'opposition.
+
+  image: hu-jintao.png
+  props.name: Hu
+  props.title: Hu Jintao
+  props.chinese: 胡锦涛
+  date.label: 2002 - 2012
+  date.start: 2002
+  date.end: 2012
+  status: Secrétaire général
+  props.description: Hu Jintao a maintenu un système politique rigide, tandis que la Chine a détrôné le Japon en tant que deuxième puissance mondiale. La Chine est devenue le troisième pays à envoyer un homme dans l'espace et Pékin a accueilli les Jeux olympiques.
+
+  image: xi-jinping.png
+  props.name:  Xi 
+  props.title: Xi Jinping
+  props.chinese: 习近平
+  date.label: 2012 -
+  date.start: 2012
+  date.end: 2018
+  status: Secrétaire général
+  props.description: Une fois au pouvoir, Xi Jinping a lancé une croisade anti-corruption. Il est considéré comme un homme charismatique, mais il est critiqué pour avoir restreint la liberté d'expression et réprimé les militants des droits de l'homme.
+  
+[]
+sources: Sources : China media / Britannica
+lastUpdate.key: Mise à jour :
+lastUpdate.value: 10/16/2017 15:20:00
+lang: fr

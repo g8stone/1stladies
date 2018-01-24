@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>First ladies of the United States</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="shortcut icon" href="vendor/afp/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="./vendor/normalize/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="./vendor/afp/global.css" />
+
+    <!-- Your styles here -->
+    <link rel="stylesheet" type="text/css" href="./app.css" />
+</head>
+
+<body>
+    <!-- The main app -->
+    <div id="app">
+      <div class="loader" v-if="!loaded">
+      </div>
+      <div class="loaded" v-else>
+        <header>
+            <h1>{{ story.title }}</h1>
+            <h2>{{ story.subhead }}</h2> 
+        </header>
+        <tabs :items="story.tabs"></tabs>
+        <footer>
+            <credits :lang="story.lang" :lastupdate="story.lastUpdate" :sources="story.sources"></credits>
+            <logo></logo>
+        </footer>
+      </div>
+    </div>
+
+    <!-- Vendor scripts -->
+    <script src="https://graphics.afpforum.com/vendors/pym/pym.v1.min.js"></script>
+    <script src="./vendor/vue/vue.min.js"></script>
+    <script src="./vendor/vue/httpVueLoader.js"></script>
+    <script src="./vendor/vue/vue-resource.min.js"></script>
+    <script src="./vendor/vue/vue-router.js"></script>
+    <script src="./vendor/archieml/archieml.js"></script>
+    <script src="./vendor/jquery/jquery-3.2.1.min.js"></script>
+    <script src="./vendor/d3/d3.min.js"></script>
+
+    <!-- Your script here -->
+    <script src="app.js"></script>
+</body>
+
+</html>
